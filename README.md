@@ -63,11 +63,11 @@ AWS Certificate Managerを開いて、証明書を一覧から、インポート
 
 AWS Certificate Managerを開いて、証明書を一覧から、インポートを選択します。
 
-8-1. 証明書の詳細の「証明書本文」にssl/client.domain.tld.crtの内容をコピーします。
+8-1. 証明書の詳細の`証明書本文`にssl/client.domain.tld.crtの内容をコピーします。
 
-8-2. 証明書の詳細の「証明書のプライベートキー」にssl/client.domain.tld.keyの内容をコピーします。
+8-2. 証明書の詳細の`証明書のプライベートキー`にssl/client.domain.tld.keyの内容をコピーします。
 
-8-3. 証明書の詳細の「証明書チェーン - オプション」にssl/ca.crtの内容をコピーします。
+8-3. 証明書の詳細の`証明書チェーン - オプション`にssl/ca.crtの内容をコピーします。
 
 8-4. `証明書をインポート`のボタンをクリックします。
 
