@@ -33,8 +33,6 @@ Resources:
         - Key: Name
           Value: PrivateSubnet1
 
-
-
 Outputs:
   VPCId:
     Description: VPC ID
