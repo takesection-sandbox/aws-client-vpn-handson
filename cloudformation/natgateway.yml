@@ -10,7 +10,6 @@ Parameters:
 Resources:
   NATGatewayEIP:
     Type: AWS::EC2::EIP
-    DependsOn: AttachGateway
     Properties:
       Domain: vpc
       Tags:
